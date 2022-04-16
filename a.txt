@@ -1,2 +1,1 @@
-ADDED new line
-concatenated
+hai
