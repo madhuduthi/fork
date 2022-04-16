@@ -1,1 +1,2 @@
-welcome to git
+ADDED new line
+concatenated
